@@ -1,0 +1,13 @@
+.img-product{
+    height: 280px;
+    object-fit: cover;
+    min-height: 280px;
+    padding: 0px 20px 0px;
+}
+.card-header {
+    border-bottom: unset;
+}
+.card-subtitle {
+    margin-top: -.375rem;
+    margin-bottom: 10px;
+}
